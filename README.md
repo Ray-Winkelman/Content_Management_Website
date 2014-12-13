@@ -1,11 +1,11 @@
 ﻿
 <h1>Summary</h1>
 
-This repository holds a Content Management Website developed by Greg Hatt, Dave Crawford and I. 
+This repository holds a Content Management Website developed by <a href="https://www.linkedin.com/profile/view?id=364697985">Greg Hatt</a>, Dave Crawford and I. 
 
 Users, Pages, Content Areas, Articles, and CSS styles are added to the database by authorized users; and displayed on the front-end site.  
 
-Administrators can manage the back-end site users. Editors can manage Pages, Content Areas, Articles, and CSS styles. Authors can edit and create Articles using the front-end site. 
+Administrators can manage Users. Editors can manage Pages, Content Areas, Articles, and CSS styles. Authors can edit and create Articles using the front-end site. 
 
 Key files: <br>
 ./Presentation/index.php<br>
