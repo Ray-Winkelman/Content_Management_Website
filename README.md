@@ -13,7 +13,7 @@ Key files: <br>
 
 <p>For a better understanding, or visual representation of the database design, please refer to the Entity Relationship Diagram.</p> 
 
-<p>You will need a PHP interpreter and MySQL engine installed to host this website.</p>
+<p>You will need a PHP interpreter and MySQL engine installed to host this.</p>
 
 
 Entity Relationship Diagram:<br>
