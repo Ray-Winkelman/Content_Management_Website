@@ -7,10 +7,13 @@ Users, Pages, Content Areas, Articles, and CSS styles are added to the database 
 
 Administrators can manage the back-end site users. Editors can manage Pages, Content Areas, Articles, and CSS styles. Authors can edit and create Articles using the front-end site. 
 
+Key files: 
+./Presentation/index.php
+./Presentation/backend.php
 
 <p>For a better understanding, or visual representation of the database design, please refer to the Entity Relationship Diagram.</p> 
 
-<p>You will need a PHP interpreter and MySQL engine installed to use the website.</p>
+<p>You will need a PHP interpreter and MySQL engine installed to host this website.</p>
 
 
 Entity Relationship Diagram:<br>
