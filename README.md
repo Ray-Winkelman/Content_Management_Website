@@ -15,9 +15,21 @@ Key files: <br>
 
 <p>You will need a PHP interpreter and MySQL engine installed to host this.</p>
 
+Front End Site:<br>
+<img src="http://s23.postimg.org/unp0sqgp7/Frontend.png" alt="Screenshot"> 
+
+Site Login:<br>
+<img src="http://s2.postimg.org/d92txubx5/Login.png" alt="Screenshot"> 
+
+Site Summary:<br>
+<img src="http://s13.postimg.org/p9wzoubyf/Graph.png" alt="Screenshot"> 
+
+Back End (Articles):<br>
+<img src="http://s15.postimg.org/gi6623d0b/Backend.png" alt="Screenshot"> 
+
 
 Entity Relationship Diagram:<br>
-<img src="http://s23.postimg.org/5fcx701tn/CMS_ERD.png" alt="UML Activity Diagram"> 
+<img src="http://s23.postimg.org/5fcx701tn/CMS_ERD.png" alt="Entity Relationship Diagram"> 
 
 Content Management Website Directory Tree:<br>
 <img src="http://s28.postimg.org/bsykkjokt/Tree.png"> 
